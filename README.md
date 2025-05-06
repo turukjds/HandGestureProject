@@ -75,7 +75,7 @@ The core logic combines computer vision for gesture input and 3D physics simulat
 1.  **Prerequisites:** Python 3.x installed.
 2.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url]
+    git clone https://github.com/turukjds/HandGestureProject.git
     cd HandGestureProject
     ```
 3.  **Install dependencies:**
